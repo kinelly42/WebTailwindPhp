@@ -16,6 +16,7 @@
     Muhamad hamja
     Teknik Informatika
     umur 20
+    status blom menikah
 </body>
 
 </html>
